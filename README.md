@@ -35,6 +35,10 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-azy&show_icons=true&locale=en&layout=compact&theme=radical" alt="ali-azy">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-azy)](https://github.com/ali-azy/github-readme-stats)
+
+  
 </p>
 
 <!---
